@@ -1,6 +1,11 @@
 # Sonic Fanart randomforest prediction
 
-Description:
+#### Table of contents
+- [Heading](#description)
+
+<!-- toc -->
+
+## Description
 
 Sonic the Hedgehog is a very well known video game franchise. It's then of no surprise that many fans have tried drawing their own pieces of art featuring the blue blur.
 Deviantart is a popular website to put your own art on the Internet, so I've used a (now deleted) dataset with urls to Deviantart.
@@ -9,7 +14,7 @@ On Deviantart, when you post art, you have many stats you can see, like the numb
 
 This application aims to predict how many views a fan art will get, based on the number of likes (called favorites on Deviantart) and comments it got.
 
-Features:
+## Features:
 
 -parameters selection by the user
 -data table visualization
@@ -19,7 +24,7 @@ Features:
 -downloading of fanarts directly from application
 -displaying fanarts in app
 
-How it works:
+## How it works:
 
 In the first tab, you can inputs most of the parameters that will be needed for the app to work, namely:
 -the proportion of data used to train the model. By default, it takes 70% of our data into account for the training, and keep 30% of it for testing.
