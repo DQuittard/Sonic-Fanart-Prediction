@@ -1,7 +1,9 @@
 # Sonic Fanart randomforest prediction
 
 #### Table of contents
-- [Heading](#description)
+- [Description](#description)
+- [Features](#features)
+- [How it works](#working)
 
 <!-- toc -->
 
@@ -14,7 +16,7 @@ On Deviantart, when you post art, you have many stats you can see, like the numb
 
 This application aims to predict how many views a fan art will get, based on the number of likes (called favorites on Deviantart) and comments it got.
 
-## Features:
+## Features
 
 -parameters selection by the user
 -data table visualization
@@ -24,7 +26,7 @@ This application aims to predict how many views a fan art will get, based on the
 -downloading of fanarts directly from application
 -displaying fanarts in app
 
-## How it works:
+## How it works
 
 In the first tab, you can inputs most of the parameters that will be needed for the app to work, namely:
 -the proportion of data used to train the model. By default, it takes 70% of our data into account for the training, and keep 30% of it for testing.
