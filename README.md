@@ -3,7 +3,7 @@
 #### Table of contents
 - [Description](#description)
 - [Features](#features)
-- [How it works](#working)
+- [How it works](#how-it-works)
 
 <!-- toc -->
 
